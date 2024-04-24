@@ -11,6 +11,7 @@ This repository contains the code and findings of a group project conducted usin
   - **captured_vs_farmed**: Contains information on trends in fishery production over the years across different income groups.
   - **production**: Provides data on the trends in fish species produced over the years across different income groups.
   - **consumption**: Includes data on the level of fishery consumption across countries categorized by income groups worldwide.
+- **Source Data**: Data for this project was sourced from the [TidyTuesday repository](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-10-12/readme.md).
 - **Required Libraries**: The following libraries are required for this project:
   - `tidyverse`: Comprehensive collection of data manipulation tools in R.
   - `maps`: Provides functions to draw geographical maps.
