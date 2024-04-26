@@ -18,7 +18,7 @@ This repository contains the code and findings of a group project conducted usin
   - `RColorBrewer`: Provides color schemes for maps and other graphics.
 
 ## Visualizations
-1. **Visualisation 1 (Stacked Area Plot)**: Utilized the *captured_vs_farmed* dataset to create a stacked area plot illustrating trends in fishery production over the years across different income groups.
+1. **Visualisation 1 (Line Chart)**: Utilized the *captured_vs_farmed* dataset to create a line chart illustrating trends in fishery production over the years across different income groups.
    
 2. **Visualisation 2 (100% Stacked Barplot)**: Employed the *production* dataset to create a 100% stacked barplot illustrating trends in fish species produced over the years across different income groups.
    
